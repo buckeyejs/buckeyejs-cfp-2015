@@ -4,6 +4,8 @@
 
 For years, Buckeye Nation has played host to C#, Java, Python, Mobile and UX conferences. It's time we had a conference built by JavaScript developers for JavaScript developers so we can explore the future of the language in all its bountiful glory.
 
+BuckeyeJS 2015 will be held on Saturday, October 24, 2015 in capital city Columbus, OH. This year's CFP closes on June 30, 2015.
+
 
 # Speaking @ BuckeyeJS
 
