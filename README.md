@@ -2,14 +2,16 @@
 
 # BuckeyeJS CFP
 
-For years, Buckeye Nation has played host to C#, Java, Python and Mobile conferences. It's time we had a conference built by JavaScript developers for JavaScript developers so we can explore the future of the language in all its bountiful glory.
+For years, Buckeye Nation has played host to C#, Java, Python, Mobile and UX conferences. It's time we had a conference built by JavaScript developers for JavaScript developers so we can explore the future of the language in all its bountiful glory.
 
 
 # Speaking @ BuckeyeJS
 
 Call for proposals for all speakers at BuckeyeJS is now open. All JavaScript developers are welcome, even those with the misfortune of residing in that state up north. 
 
-Working with front-end frameworks, we want to hear from you. Building the next great designer language that compiles to JavaScript, we want to hear from you. Working with the latest ES6 JavaScript features, we want to hear from you. Working with anything hardware - microcontrollers that run JavaScript, drones that run JavaScript, refrigerators that run JavaScript, cars that run JavaScript, we want to hear from you.
+Working with front-end frameworks, we want to hear from you. Building the next great designer language that compiles to JavaScript, we want to hear from you. Working with the latest ES6 JavaScript features, we want to hear from you. Working with anything hardware - microcontrollers that run JavaScript, drones that run JavaScript, refrigerators that run JavaScript, cars that run JavaScript, we want to hear from you. You get the idea...
+
+EVERYTHING JavaScript.
 
 
 # What makes a great talk
@@ -29,7 +31,7 @@ To submit your talk, create an issue in this repository. Be as creative as you l
 
 - Brief Summary of Talk (600 characters)
 
-- Speaker Full Name, Job Title, Email, Website, Twitter, Gravatar Link (Avatar, Real Photo, up to you)
+- Speaker Full Name, Job Title, Email, Website, Twitter, Gravatar Link (Avatar or Real Photo, it's up to you)
 
 
 # Talk format
